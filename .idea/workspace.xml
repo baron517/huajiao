@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbbd8a01-2d3f-40e4-85ad-2e250a0f2235" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/img/course.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/img/job_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/img/job_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/img/job_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/img/job_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/img/job_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/lib/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/lib/layer_mobile/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/assets/lib/layer_mobile/need/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/course.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/courseDetail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/job.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/weixin/jobDetail.html" />
-    </list>
+    <list default="true" id="bbbd8a01-2d3f-40e4-85ad-2e250a0f2235" name="Default" comment="" />
     <ignored path="huajiao.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
