@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="assets/css/base.css"/>
+    <link rel="stylesheet" href="assets/css/main.css?v=1"/>
+
+    <link rel="stylesheet" href="assets/lib/layer_mobile/need/layer.css"/>
+
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_449834_39vf6wdlbw2.css"/>
+
+
+</head>
+<body>
+
+<div class="login-main">
+
+<ul class="my-form">
+    <li>
+        <i class="icon-shouji54 iconfont"></i><input placeholder="手机号码" type="number">
+    </li>
+    <li>
+        <i class="icon-yanzhengma iconfont"></i><input placeholder="验证码" type="text">
+        <span class="get-code">获取验证码</span>
+    </li>
+
+    <li>
+        <i class="icon-zuoxixingming iconfont"></i><input placeholder="联系人姓名" type="text">
+    </li>
+    <li>
+        <i class="icon-profile iconfont"></i><input placeholder="企业名称" type="text">
+    </li>
+    <li>
+        <i class="icon-qiye iconfont"></i>
+        <select>
+            <option selected="" value="请选择企业性质">请选择企业性质</option>
+            <option value="上游生产商">上游生产商</option>
+            <option value="贸易商">贸易商</option>
+            <option value="工贸一体">工贸一体</option>
+            <option value="下游工厂">下游工厂</option>
+            <option value="其他">其他</option>
+        </select>
+    </li>
+
+
+</ul>
+
+    <div class="btn-col">
+
+
+        <div class="agreement"><input type="checkbox"/>我已经阅读并同意<a href="clause.html" class="red">《服务条款》</a></div>
+
+        <a href="tel:88888" class="contact">平台热线</a>
+
+        <a href="login.html" class="reg">登录用户</a>
+
+        <button type="button" class="form-btn">登录</button>
+
+    </div>
+
+
+
+
+</div>
+<script src="assets/lib/jquery.js"></script>
+<script src="assets/js/common.js?v=2"></script>
+<script src="assets/lib/layer_mobile/layer.js"></script>
+<script>
+
+    $(".my-form li select").change(function()
+    {
+       $(this).addClass("active");
+    });
+
+</script>
+
+</body>
+</html>

@@ -78,7 +78,7 @@ ins,a{text-decoration: none}
 
 /*common.css*/
 html{width:100%;height:100%;}
-body{min-height:100%;color:#333333;font-size:0.14rem;}
+body{height:100%;color:#333333;font-size:0.14rem;}
 a{color:#333;}
 .fl{float: left}
 .fr{float: right}
@@ -92,6 +92,7 @@ button,select{-webkit-appearance: none;}
 .row{display: block;width:100%;display:flex;flex-flow:row;display: -webkit-box;display: -webkit-flex;box-sizing: border-box;}
 .col{-webkit-box-flex: 1;-webkit-flex: 1;flex: 1;display: block;width: 100%;box-sizing: border-box;text-align: center;}
 .orange{color:#ff6600!important;}
+.red{color:#df0446!important;}
 
 
 
