@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbbd8a01-2d3f-40e4-85ad-2e250a0f2235" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weixin/assets/css/main.css" afterPath="$PROJECT_DIR$/weixin/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weixin/dailyComment.html" afterPath="$PROJECT_DIR$/weixin/dailyComment.html" />
     </list>
     <ignored path="huajiao.iws" />
@@ -24,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/weixin/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8103447">
-              <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.56112224">
+              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dailyComment.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dailyComment.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weixin/dailyComment.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68241966">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state vertical-scroll-proportion="-12.892858">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -163,9 +165,9 @@
         <option value="$PROJECT_DIR$/weixin/clause.html" />
         <option value="$PROJECT_DIR$/weixin/auth.html" />
         <option value="$PROJECT_DIR$/weixin/dailyCommentDetail.html" />
-        <option value="$PROJECT_DIR$/weixin/assets/css/main.css" />
         <option value="$PROJECT_DIR$/weixin/financeProducts.html" />
         <option value="$PROJECT_DIR$/weixin/dailyComment.html" />
+        <option value="$PROJECT_DIR$/weixin/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -224,10 +226,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="huajiao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weixin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -507,18 +505,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weixin/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/weixin/dailyComment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8103447">
-          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weixin/dailyComment.html">
+    <entry file="file://$PROJECT_DIR$/weixin/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68241966">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.56112224">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
           <folding />
         </state>
       </provider>

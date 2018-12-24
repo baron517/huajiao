@@ -78,6 +78,14 @@
 
 .course-bottom input{border:1px solid #ddd;width:100%;padding:0.07rem 0 0.07rem 0.1rem;box-sizing: border-box;margin:0.1rem 0 0.16rem 0;}
 
+.market-list{border-bottom:3px solid #ddd;}
+.market-list li{padding:0.08rem 0.15rem;border-bottom: 1px solid #eee;font-size:0.14rem;}
+.market-list li span{display: inline-block;width:0.75rem;}
+
+.market-table{width:100%;}
+.market-table table{width:100%;}
+.market-table table tr{}
+
 .aui-radio,
 .aui-checkbox {
     width: 0.2rem;
